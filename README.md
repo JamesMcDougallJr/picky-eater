@@ -1,6 +1,8 @@
 # picky-eater
 An app to help my picky eater decide where to eat
 
+I wanted to play around with react native, and this is where it led me. I didn't end up needing a context pattern. I didn't realize how easy react native was! And using expo, if I wanted to pay to distribute on the app store it would be very easy.
+
 # Screens
 
 ## Initial Screen - Price Selection
